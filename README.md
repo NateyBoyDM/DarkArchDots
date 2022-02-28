@@ -51,6 +51,8 @@ pavcuontrol
 
 (for bluetooth) blueman, bluez-utils (AUR)
 
+(for screenshots) xclip, scrot
+
 # Notes
 
 IMPORTANT: I set the polybar up to use only the forest theme, which is where the config files are located. I have only included the forest folder as well as necessary scripts in my .config/polybar directory, so if you plan on using any other theme, you may need to copy and paste the configs into another folder. I have done a similar thing with rofi, using the launchers/ribbon configs. These are also set in the i3 config for my launcher binding and polybar on startup.
@@ -66,6 +68,12 @@ Fish greeting was changed via command:
 # Installation
 
 Everything is ready to go right out of the box. I have changed i3 keybinds to my personal liking, so those may require tweaking, but everything else is pretty standard. First backup any config files that you already have just to be safe, then copy everything in the repo to your /home/user directory. Restart i3, chmod the .sh files in polybar, rofi, as well as the nf file (if necessary) and everything should be set!
+
+
+# Screenshots
+
+![screenshot_20220228_030605](https://user-images.githubusercontent.com/17256359/155956212-fe55c88a-8b47-4b64-9d55-c4c9127c6939.png)
+
 
 
 
