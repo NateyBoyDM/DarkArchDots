@@ -61,6 +61,8 @@ For neofetch image, I could not for the life of my figure out how to set it up i
 
 [Bluetooth module](https://github.com/msaitz/polybar-bluetooth) and [Optimus-Manager](https://github.com/OscarSanner/polybar-optimus-manager) module scripts were slightly modified, but everything needed should be included. I have set everything to be in the .config directory with nothing user specific, so everything should be ready out of the box. The only thing a tad bit strange is my i3 config, since I use different keybindings and there are some unnecessary comments left over from default config/copy and pasted bindings for volume control. 
 
+Music is set to be placed in /music. This can be changed by editing the /.mpd/mpd.conf and /.ncmpcpp/config files
+
 Fish greeting was changed via command:
 
 ```set fish_greeting "This terminal awakened from the horror in a realm apart from your's..."```
