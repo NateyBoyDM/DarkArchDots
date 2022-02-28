@@ -1,5 +1,5 @@
-# DarkArchDots
-Full dotfiles for my DarkArch rice
+# SoulArchDots
+Full dotfiles for my SoulArch rice
 
 # General Info
 OS: EndeavourOS
