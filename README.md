@@ -53,6 +53,10 @@ pavcuontrol
 
 (for screenshots) xclip, scrot
 
+[Rofi Themes](https://github.com/adi1090x/rofi)
+
+[Polybar Themes](https://github.com/adi1090x/polybar-themes#forest)
+
 # Notes
 
 IMPORTANT: I set the polybar up to use only the forest theme, which is where the config files are located. I have only included the forest folder as well as necessary scripts in my .config/polybar directory, so if you plan on using any other theme, you may need to copy and paste the configs into another folder. I have done a similar thing with rofi, using the launchers/ribbon configs. These are also set in the i3 config for my launcher binding and polybar on startup.
